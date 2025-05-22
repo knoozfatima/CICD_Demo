@@ -10,7 +10,7 @@ on:
 
 env:
   PACKAGE_NAME: "CICD_Demo1"
-  OWNER: "knoozfatima"
+  OWNER: "kunoozfatima"
   
 
 jobs:
